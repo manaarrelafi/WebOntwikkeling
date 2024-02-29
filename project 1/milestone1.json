@@ -57,7 +57,7 @@
         "age": 61,
         "isActive": true,
         "birthDate": "1960-01-01",
-        "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*ZKED4R-Cc5Ae1dIGSvCjyw.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/WebOntwikkeling/main/project%201/1*ZKED4R-Cc5Ae1dIGSvCjyw.jpg",
         "hasCelebrityEndorsement": true,
         "foundedBy": {
             "id": "FOUNDER-004",
