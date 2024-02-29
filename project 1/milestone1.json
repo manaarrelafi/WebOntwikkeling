@@ -125,7 +125,7 @@
         "age": 47,
         "isActive": true,
         "birthDate": "1975-01-01",
-        "imageUrl": "https://www.shutterstock.com/image-vector/emporio-armani-logo-prepared-cleaned-600nw-2399818467.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/WebOntwikkeling/main/project%201/emporio-armani-logo-prepared-cleaned-600nw-2399818467.jpg",
         "hasCelebrityEndorsement": true,
         "foundedBy": {
             "id": "FOUNDER-008",
