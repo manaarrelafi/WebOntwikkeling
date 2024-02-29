@@ -40,7 +40,7 @@
         "age": 101,
         "isActive": true,
         "birthDate": "1921-01-01",
-        "imageUrl": "https://1000logos.net/wp-content/uploads/2017/01/Gucci-Logo.png",
+        "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/WebOntwikkeling/main/project%201/Gucci-Logo.png",
         "hasCelebrityEndorsement": true,
         "foundedBy": {
             "id": "FOUNDER-003",
