@@ -91,7 +91,7 @@
         "age": 38,
         "isActive": true,
         "birthDate": "1984-01-01",
-        "imageUrl": "https://logowik.com/content/uploads/images/marc-jacobs2344.logowik.com.webp",
+        "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/WebOntwikkeling/main/project%201/marc-jacobs2344.logowik.com.webp",
         "hasCelebrityEndorsement": true,
         "foundedBy": {
             "id": "FOUNDER-006",
