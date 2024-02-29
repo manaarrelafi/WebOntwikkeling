@@ -142,7 +142,7 @@
         "age": 166,
         "isActive": true,
         "birthDate": "1856-01-01",
-        "imageUrl": "https://fashionista.com/.image/t_share/MTU3NDQ0MzIzODAwMDY1MjI2/riccardo-tisci-burberry-new-logo.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/WebOntwikkeling/main/project%201/riccardo-tisci-burberry-new-logo.jpg",
         "hasCelebrityEndorsement": true,
         "foundedBy": {
             "id": "FOUNDER-009",
