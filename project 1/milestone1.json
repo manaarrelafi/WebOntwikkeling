@@ -108,7 +108,7 @@
         "age": 109,
         "isActive": true,
         "birthDate": "1913-01-01",
-        "imageUrl": "https://logo.com/image-cdn/images/kts928pd/production/5be7f05ad50b4254e440898461e4ad1026a11723-900x592.png?w=1080&q=72",
+        "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/WebOntwikkeling/main/project%201/5be7f05ad50b4254e440898461e4ad1026a11723-900x592.png",
         "hasCelebrityEndorsement": true,
         "foundedBy": {
             "id": "FOUNDER-007",
