@@ -74,7 +74,7 @@
         "age": 16,
         "isActive": true,
         "birthDate": "2006-01-01",
-        "imageUrl": "https://i.pinimg.com/736x/f8/48/90/f848909574ad6fd94d891614176d93b4.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/manaarrelafi/WebOntwikkeling/main/project%201/f848909574ad6fd94d891614176d93b4.jpg",
         "hasCelebrityEndorsement": true,
         "foundedBy": {
             "id": "FOUNDER-005",
