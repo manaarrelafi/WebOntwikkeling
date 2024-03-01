@@ -1,0 +1,64 @@
+[
+    {
+            "id": "FOUNDER-001",
+            "name": "Gabrielle 'Coco' Chanel",
+            "birthDate": "1883-08-19",
+            "nationality": "French"
+        },
+    {
+            "id": "FOUNDER-002",
+            "name": "Christian Dior",
+            "birthDate": "1905-01-21",
+            "nationality": "French"
+        },
+    {
+            "id": "FOUNDER-003",
+            "name": "Guccio Gucci",
+            "birthDate": "1881-03-26",
+            "nationality": "Italian"
+        },
+       
+    {
+            "id": "FOUNDER-004",
+            "name": "Yves Saint Laurent",
+            "birthDate": "1936-08-01",
+            "nationality": "French"
+        },
+    {
+            "id": "FOUNDER-005",
+            "name": "Tom Ford",
+            "birthDate": "1961-08-27",
+            "nationality": "American"
+        },
+        
+    {
+            "id": "FOUNDER-006",
+            "name": "Marc Jacobs",
+            "birthDate": "1963-04-09",
+            "nationality": "American"
+        },
+    {
+            "id": "FOUNDER-007",
+            "name": "Mario Prada",
+            "birthDate": "1887-05-10",
+            "nationality": "Italian"
+        },
+    {
+            "id": "FOUNDER-008",
+            "name": "Giorgio Armani",
+            "birthDate": "1934-07-11",
+            "nationality": "Italian"
+        },
+    {
+            "id": "FOUNDER-009",
+            "name": "Thomas Burberry",
+            "birthDate": "1835-08-27",
+            "nationality": "British"
+        },
+    {
+            "id": "FOUNDER-010",
+            "name": "Hugo Ferdinand Boss",
+            "birthDate": "1885-07-08",
+            "nationality": "German"
+        }
+]
